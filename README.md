@@ -75,19 +75,19 @@ A passionate Full Stack Web Developer from India 🇮🇳
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupshaw&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anup1603&show_icons=true&theme=radical" />
 </p>
 
 ### 💪 Most Streat Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupshaw&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anup1603&theme=radical" />
 </p>
 
 ### 📊 Most Used Languages Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupshaw&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup1603&layout=compact&theme=radical" />
 </p>
 
 ---
