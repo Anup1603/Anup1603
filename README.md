@@ -1,126 +1,143 @@
-<!-- Banner image -->
+<!-- Name banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" />
+  <img src="./NameBanner3.png" alt="Anup Kumar Shaw" />
 </p>
 
-### 👋 Hi, I'm Anup Kumar Shaw
+<h1 align="center">Hi 👋, I'm Anup Kumar Shaw</h1>
 
 <p align="center">
-  <img src="./NameBanner3.png" alt="banner" />
+  <a href="https://anupshaw-portfolio.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Engineer+%7C+4x+Google+Cloud+Certified;AI+Application+Builder;NestJS+%E2%80%A2+Next.js+%E2%80%A2+GCP" alt="Full-Stack Developer | Cloud Engineer | AI Application Builder" />
+  </a>
 </p>
 
-A passionate Full Stack Web Developer from India 🇮🇳
-
-- 🔭 I’m currently working on: Hospital Visitor Tracking System and Cloud Projects ☁️
-- 🌱 I’m currently learning: GCP, Next.js, and Advanced DevOps
-- 💬 Ask me about: MERN Stack, REST APIs, MongoDB, Google Cloud
-- 📫 How to reach me: anupshaw1603@gmail.com
-- ⚡ Fun fact: I love to build real-world apps that solve problems!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anup1603&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🚀 About Me
 
-#### 🌐 Frontend
+Software Developer at **[Anocloud](https://anocloud.in)** — building multi-tenant SaaS serving **10+ enterprise clients** on **NestJS, Next.js, and GCP**: secure backends, POS/SAP synchronization pipelines, and AI/LLM-integrated platforms across retail, healthcare, and finance.
+
+- 🔭 Currently building: **AI-powered content platforms** and **multi-tenant SaaS** on GCP
+- ☁️ **4x Google Cloud Certified** — Cloud Architect, ML Engineer, Cloud Database Engineer, Associate Cloud Engineer
+- 🌱 Currently exploring: **Advanced DevOps, LLM integrations & agentic AI workflows**
+- 💬 Ask me about: **NestJS, Next.js, TypeScript, PostgreSQL, Prisma, GCP, MERN**
+- 🎓 B.Tech in Information Technology — RCC Institute of Information Technology, Kolkata (2024)
+- 📍 Howrah, West Bengal, India
+- 📫 Reach me at: **anupshaw1603@gmail.com**
+- ⚡ Fun fact: I love building real-world apps that solve real problems!
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
 
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://codewithmosh.com/_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&w=3840&q=75" alt="nextjs" width="70" height="50"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,dart" alt="TypeScript, JavaScript, Java, C++, Dart" />
+</p>
+
+#### 🌐 Frontend & Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,html,css,flutter" alt="React, Next.js, Redux, Tailwind CSS, Material UI, HTML5, CSS3, Flutter" />
 </p>
 
 #### ⚙️ Backend
 
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nANFLtcJ8EQJWxnraoKjEG8Jvq3ibISFwg&s" alt="nestjs" width="70" height="50"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWXoi7cy3HEsFJ8kqj7FQisLz0IBP9r7hW-4RysSgRZKI0BLQm46I0nn-PwKi2112FaU&usqp=CAU" alt="express" width="70" height="50"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma" alt="NestJS, Node.js, Express, Prisma" />
 </p>
 
-#### 🗃️ Databases
+#### 🗃️ Databases & Caching
 
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="PostgreSQL, MySQL, MongoDB, Redis" />
 </p>
 
-#### 🎨 UI Frameworks & Libraries
+#### ☁️ Cloud & DevOps
 
 <p align="left">
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui" width="50" height="50"/> </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.illacloud.com/illa-website/blog/shadcn-ui-2024/cover.png" alt="shadcn/ui" width="70" height="50"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" alt="bootstrap" width="50" height="50"/> </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="50" height="50"/> </a>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,nginx,git,github,githubactions,linux" alt="GCP, AWS, Docker, Nginx, Git, GitHub, GitHub Actions, Linux" />
 </p>
 
-#### 🛠️ Tools & DevOps
+#### 🤖 AI & Tools
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="VS Code, Postman, Figma" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
 </p>
+
 ---
 
-### 📈 GitHub Stats
+### 🏅 Google Cloud Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anup1603&show_icons=true&theme=radical" />
-</p>
-
-### 💪 Most Streat Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anup1603&theme=radical" />
-</p>
-
-### 📊 Most Used Languages Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup1603&layout=compact&theme=radical" />
-</p>
+| Certification                              | Year |
+| ------------------------------------------ | ---- |
+| 🧠 Professional Machine Learning Engineer  | 2026 |
+| 🏛️ Professional Cloud Architect            | 2026 |
+| 🗄️ Professional Cloud Database Engineer    | 2025 |
+| ⚙️ Associate Cloud Engineer                | 2024 |
 
 ---
 
 ### 📂 Featured Projects
 
-| Project                      | Tech Stack               | Description                                                                                                                                                                            |
-| ---------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 💸 Invoice Generating System | MERN, JWT, ReactPDF      | Our invoice generation system helps businesses of all sizes create, send, and track professional invoices effortlessly with Client Management, Financial Reports and Payment Tracking. |
-| 🏠 Tenant Management System  | MERN, JWT, MongoDB Atlas | A comprehensive Tenant Management Portal enabling seamless property and tenant management with efficient tracking, automation, and secure access.                                      |
-| 📝 NoteZipper                | MERN, Auth, MongoDB      | Note management system with secure login and CRUD.                                                                                                                                     |
-| ☁️ GCP Projects              | GCP, BigQuery, Cloud SQL | Real-world cloud projects with professional architecture.                                                                                                                              |
+| Project                                                                          | Tech Stack                                             | Highlights                                                                                                                              |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 AI-Powered LinkedIn Content Assistant                                          | NestJS, Next.js, Prisma, PostgreSQL, Gemini AI, Docker | Generate, edit, schedule & publish LinkedIn content from a centralized knowledge base — **~70% drafting-time reduction** with a provider-agnostic AI layer |
+| 💸 Multi-Tenant Invoice Generation Platform                                       | NestJS, Prisma, PostgreSQL, WebSockets, Docker, GCP    | Production invoicing with GST compliance & real-time updates — **10+ companies onboarded, 100% tenant data isolation**                    |
+| 🏥 [Hospital Visitor Tracking System](https://github.com/Anup1603/HVM_Backend)    | NestJS, Next.js, Prisma, GCP                           | End-to-end visitor tracking with optimized GCP deployment — **300ms latency reduction**, complete architecture ownership                  |
+| 🏠 [Tenant Management System](https://github.com/Anup1603/TMS)                    | MERN, JWT, MongoDB Atlas                               | Property & tenant management portal with efficient tracking, automation, and secure access                                               |
+| 📝 [NoteZipper](https://github.com/Anup1603/Note_Zipper_Frontend)                 | MERN, JWT, MongoDB                                     | Note management system with secure login and full CRUD                                                                                    |
 
 ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anup1603&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anup1603&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup1603&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anup-kumar-shaw-538a16214/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/anupkumarshaw/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://anupshaw-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:anupshaw1603@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/anupshaw1603/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1vN0IrtpXDipUH_f5mUZdg8qW5E1CSYYb/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
 
 ---
 
-_✨ Made with ❤️ by Anup Kumar Shaw_
+<p align="center"><i>✨ Made with ❤️ by Anup Kumar Shaw</i></p>
